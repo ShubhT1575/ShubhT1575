@@ -1,4 +1,4 @@
-lj# 💫 About Me:
+## 💫 About Me:
 I am a recent graduate who aspires to advance in this sector. I am proficient in HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, and React.js.<br><br>
 
 
