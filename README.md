@@ -18,8 +18,7 @@ I am a recent graduate who aspires to advance in this sector. I am proficient in
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShubhT1575&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShubhT1575&icon=0&color=11)](https://visitcount.itsvg.in)
