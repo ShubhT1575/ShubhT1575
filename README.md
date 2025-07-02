@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a recent graduate who aspires to advance in this sector. I am proficient in HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, and React.js.<br><br>
+I’m Shubham Tiwari, a MERN Stack Developer with experience in full-stack web and blockchain development. I specialize in building secure, scalable applications using React, Node.js, and Solidity. <br><br>
 
 
 ## 🌐 Socials:
